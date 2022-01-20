@@ -4,9 +4,9 @@ package enttest
 
 import (
 	"context"
-	"go-microservices/ent"
+	"go-microservice/ent"
 	// required by schema hooks.
-	_ "go-microservices/ent/runtime"
+	_ "go-microservice/ent/runtime"
 
 	"entgo.io/ent/dialect/sql/schema"
 )

@@ -3,7 +3,7 @@
 package user
 
 import (
-	"go-microservices/ent/predicate"
+	"go-microservice/ent/predicate"
 
 	"entgo.io/ent/dialect/sql"
 )

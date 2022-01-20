@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"log"
 
-	"go-microservices/ent/migrate"
+	"go-microservice/ent/migrate"
 
-	"go-microservices/ent/user"
+	"go-microservice/ent/user"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"

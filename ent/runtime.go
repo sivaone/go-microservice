@@ -3,8 +3,8 @@
 package ent
 
 import (
-	"go-microservices/ent/schema"
-	"go-microservices/ent/user"
+	"go-microservice/ent/schema"
+	"go-microservice/ent/user"
 )
 
 // The init function reads all schema descriptors with runtime code
