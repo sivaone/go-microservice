@@ -6,8 +6,8 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"go-microservices/ent/predicate"
-	"go-microservices/ent/user"
+	"go-microservice/ent/predicate"
+	"go-microservice/ent/user"
 	"math"
 
 	"entgo.io/ent/dialect/sql"

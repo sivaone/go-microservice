@@ -5,8 +5,8 @@ package ent
 import (
 	"context"
 	"fmt"
-	"go-microservices/ent/predicate"
-	"go-microservices/ent/user"
+	"go-microservice/ent/predicate"
+	"go-microservice/ent/user"
 
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"

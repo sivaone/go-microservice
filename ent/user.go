@@ -4,7 +4,7 @@ package ent
 
 import (
 	"fmt"
-	"go-microservices/ent/user"
+	"go-microservice/ent/user"
 	"strings"
 
 	"entgo.io/ent/dialect/sql"

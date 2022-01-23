@@ -5,7 +5,7 @@ package hook
 import (
 	"context"
 	"fmt"
-	"go-microservices/ent"
+	"go-microservice/ent"
 )
 
 // The UserFunc type is an adapter to allow the use of ordinary
